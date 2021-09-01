@@ -4,7 +4,7 @@ import Graph from "./components/Graph";
 function App() {
   return (
     <div className="App">
-      <Graph />
+      <Graph name="Счетчик кликов"/>
     </div>
   );
 }
